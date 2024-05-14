@@ -1,1 +1,1 @@
-![Disk Scheduling](disk_sched.png)
+![Disk Scheduling](disk_sched.PNG)
